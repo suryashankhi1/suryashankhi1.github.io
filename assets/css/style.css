@@ -80,7 +80,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("/home/surya/Desktop/first_project/assets/images/surya.JPG");
+  background-image: url("/assets/images/surya.JPG");
 
   /* Full height */
   height: 95%;
